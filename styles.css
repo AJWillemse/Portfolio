@@ -597,10 +597,6 @@ body {
 
     /* ///////////////////////////// NAVBAR /// NAVBAR ///////////////////////////// */ 
 
-    .fixed-navbar {
-        background-image: linear-gradient(#001c30f9, #89A4C7, #001c30f9);
-    }
-
     .svg-logo {
         margin-left: 3%;
         width: 12%;
@@ -633,7 +629,6 @@ body {
     /* ///////////////////////////// INTRODUCTION /// INTRODUCTION ///////////////////////////// */
 
     .container-introduction {
-        backdrop-filter: blur(3px);
         overflow: scroll;
         padding-top: 0;
         padding-bottom: 10%;
@@ -674,7 +669,6 @@ body {
     /* ///////////////////////////// DEVELOPMENT /// DEVELOPMENT ///////////////////////////// */
 
     .row-development {
-        backdrop-filter: blur(3px);
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -718,7 +712,6 @@ body {
     /* ///////////////////////////// PROJECTS /// PROJECTS ///////////////////////////// */
 
     .row-projects {
-        backdrop-filter: blur(3px);
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -752,7 +745,6 @@ body {
     /* ///////////////////////////// CONTACT /// CONTACT ///////////////////////////// */
 
 .row-contact {
-    backdrop-filter: blur(3px);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
